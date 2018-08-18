@@ -1,2 +1,5 @@
 # GAN
 GAN include DCGAN,PIX2PIX
+
+
+1、DCGAN
